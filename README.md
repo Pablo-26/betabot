@@ -1,6 +1,8 @@
-# betabot
-
-A new Flutter project.
+# Proyecto Betabot
+## Integrantes
+- Jonathan Coronel 
+- Oliver Pinos 
+- Pablo David
 
 ## Getting Started
 
