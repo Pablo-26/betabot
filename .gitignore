@@ -44,3 +44,4 @@ app.*.map.json
 
 # Archivos con claves API y configuraciones sensibles
 consts.dart
+firebase_options.dart
