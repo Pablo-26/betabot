@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323506400310",
+    "firebase_url": "https://betabot-b6eec-default-rtdb.firebaseio.com",
+    "project_id": "betabot-b6eec",
+    "storage_bucket": "betabot-b6eec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323506400310:android:ad7b99243682fa81347c97",
+        "android_client_info": {
+          "package_name": "com.example.betabot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdF1QbWD9adb4BTIecPPhnVEo4BmwboJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
